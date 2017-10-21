@@ -1,0 +1,14 @@
+{
+  "name": "addsocialproof",
+  "version": "0.0.0",
+  "description": "Backend API for addsocialproof",
+  "main": "server.js",
+  "repository": "",
+  "author": "James Thibaudeau",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6"
+  }
+}
