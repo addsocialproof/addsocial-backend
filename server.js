@@ -1,10 +1,10 @@
 var path = require('path');
 var express = require('express');
 var bodyParser = require('body-parser');
-var mongoose = require('mongoose');
-mongoose.Promise = global.Promise;
+//var mongoose = require('mongoose');
+//mongoose.Promise = global.Promise;
 
-mongoose.connect(process.env.MLAB);
+//mongoose.connect(process.env.MLAB);
 
 
 var app = express();
